@@ -16,3 +16,4 @@ Sample project demonstrating CoreUI warning messages when creating a `UIImage` f
 Working with more than a handful of images from the catalog makes the Xcode console output borderline unreadable because of these messages. The console doesn't have an option to filter *out* messages (and in general we consider it bad practice to ignore messages on the console).
 
 Tested on Xcode 14.2 with macOS 13.2.
+This issue has been reported to Apple (FB11991656).
